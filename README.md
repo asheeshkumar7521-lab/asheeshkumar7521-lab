@@ -66,9 +66,12 @@ An interactive dashboard created using Power BI to analyze sales data and identi
 
 ## 📫 Connect With Me
 
-📧 Email: Your Email Here
+📧 Email: asheeshkumar7521@gmail.com
 
 🔗 LinkedIn: [linkedin.com/in/asheesh-kumar-15841a32b](https://linkedin.com/in/asheesh-kumar-15841a32b)
+
+
+
 
 ---
 
